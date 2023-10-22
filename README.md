@@ -53,6 +53,30 @@ Functionalities like sending images in thread as well as giving a more integrate
 </p>
 Option the edit group name, member giving more friendly user interface with just a click 
 
+## Code Structure
+
+├── client
+│   ├── node_modules
+│   ├── package.json
+│   ├── package-lock.json
+│   ├── public
+│   ├── README.md
+│   └── src
+├── imgs
+│   ├── 01.png
+│   ├── 02.png
+│   ├── 03.png
+│   ├── 04.png
+│   └── 05.png
+├── README.md
+└── server
+    ├── controllers
+    ├── index.js
+    ├── node_modules
+    ├── package.json
+    ├── package-lock.json
+    └── routes
+
 ## Setting Up 
 
 1. Clone this public repository using

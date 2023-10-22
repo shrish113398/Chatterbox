@@ -4,14 +4,14 @@ Name-Shrish Tripathi
 Department-Mathematics and Computing   
 University-IIT Kharagpur
 
-##Technologies used
+## Technologies used
 
 -NodeJS
 -Express
 -ReactJS
 -StreamChat API
 
-##Features Implemented
+## Features Implemented
 
 -Direct Messaging
 -Group Chat
@@ -39,7 +39,7 @@ Functionalities like sending images in thread as well as giving a more integrate
 </p>
 Option the edit group name, member giving more friendly user interface with just a click 
 
-##Setting Up 
+## Setting Up 
 
 1. Clone this public repository using
   

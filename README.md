@@ -56,47 +56,47 @@ Option the edit group name, member giving more friendly user interface with just
 ## Code Structure
 
 ├── chatclient
-
+|   │
 │   ├── node_modules
-
+│   │
 │   ├── package.json
-
+│   │
 │   ├── package-lock.json
-
+│   │
 │   ├── public
-
+│   │
 │   ├── README.md
-
+│   │
 │   └── src
-
+│
 ├── imgs
-
+│   │
 │   ├── 01.png
-
+│   │
 │   ├── 02.png
-
+│   │
 │   ├── 03.png
-
+│   │
 │   ├── 04.png
-
+│   │
 │   └── 05.png
-
+│
 ├── README.md
-
+│
 └── server
-
+    │
     ├── controllers
-
+    │
     ├── index.js
-
+    │
     ├── node_modules
-
+    │
     ├── package.json
-
+    │
     ├── package-lock.json
-
+    │
     └── routes
-    
+
 
 ## Setting Up 
 

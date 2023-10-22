@@ -54,7 +54,7 @@ Functionalities like sending images in thread as well as giving a more integrate
 Option the edit group name, member giving more friendly user interface with just a click 
 
 ## Code Structure
-
+``````
 ├── chatclient
 
 │       ├── node_modules
@@ -96,7 +96,7 @@ Option the edit group name, member giving more friendly user interface with just
         ├── package-lock.json
 
         └── routes
-    
+``````  
 
 ## Setting Up 
 

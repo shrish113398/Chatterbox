@@ -1,25 +1,37 @@
 # Chatterbox-I'mbesideyou
 
 Name-Shrish Tripathi
+
 Department-Mathematics and Computing   
+
 University-IIT Kharagpur
 
 ## Technologies used
 
 -NodeJS
+
 -Express
+
 -ReactJS
+
 -StreamChat API
 
-## Features Implemented
+## Features Implemented 
 
 -Direct Messaging
+
 -Group Chat
+
 -Group add/remove/edit flexibility
+
 -Reactions to the messages
+
 -Deleting a message
+
 -Creating thread
+
 -SMS alert (Twilio limited)
+
 -Video Call (upcoming)
 
 <p align="center">

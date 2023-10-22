@@ -57,45 +57,45 @@ Option the edit group name, member giving more friendly user interface with just
 
 ├── chatclient
 
-│   ├── node_modules
+│       ├── node_modules
 
-│   ├── package.json
+│       ├── package.json
 
-│   ├── package-lock.json
+│       ├── package-lock.json
 
-│   ├── public
+│       ├── public
 
-│   ├── README.md
+│       ├── README.md
 
-│   └── src
+│       └── src
 
-├── imgs
+├──     imgs
 
-│   ├── 01.png
+│       ├── 01.png
 
-│   ├── 02.png
+│       ├── 02.png
 
-│   ├── 03.png
+│       ├── 03.png
 
-│   ├── 04.png
+│       ├── 04.png
 
-│   └── 05.png
+│       └── 05.png
 
 ├── README.md
 
 └── server
 
-    ├── controllers
+        ├── controllers
 
-    ├── index.js
+        ├── index.js
 
-    ├── node_modules
+        ├── node_modules
 
-    ├── package.json
+        ├── package.json
 
-    ├── package-lock.json
+        ├── package-lock.json
 
-    └── routes
+        └── routes
     
 
 ## Setting Up 

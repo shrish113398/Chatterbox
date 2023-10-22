@@ -1,5 +1,7 @@
 # Chatterbox-I'mbesideyou
 
+Client Submodule Repository : https://github.com/shrish113398/chatclient
+
 Name-Shrish Tripathi
 
 Department-Mathematics and Computing   

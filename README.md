@@ -1,6 +1,6 @@
 # Chatterbox-I'mbesideyou
 
-Website link - https://rainbow-panda-72bf92.netlify.app/
+Site link updated: https://majestic-chaja-af25ed.netlify.app/
 
 Client Submodule Repository: https://github.com/shrish113398/chatclient
 

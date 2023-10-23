@@ -1,6 +1,8 @@
 # Chatterbox-I'mbesideyou
 
-Client Submodule Repository : https://github.com/shrish113398/chatclient
+Website link - https://rainbow-panda-72bf92.netlify.app/
+
+Client Submodule Repository: https://github.com/shrish113398/chatclient
 
 Name-Shrish Tripathi
 
